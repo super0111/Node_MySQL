@@ -22,8 +22,6 @@ Associations:
 > [Sequelize Associations: Many-to-Many Relationship example](https://bezkoder.com/sequelize-associate-many-to-many/)
 
 Fullstack with Node.js Express:
-> [React.js + Node.js Express + MySQL](https://bezkoder.com/react-node-express-mysql/)
-
 > [React.js + Node.js Express + PostgreSQL](https://bezkoder.com/react-node-express-postgresql/)
 
 > [React.js + Node.js Express + MongoDB](https://bezkoder.com/react-node-express-mongodb-mern-stack/)
